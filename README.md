@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Full Stack Web - Developer </h3>
 
 <img  width="400"  src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
