@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravig321&label=Profile%20views&color=0e75b6&style=flat" alt="ravig321" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **programming in C, C++ , Java**
+- 💬 Ask me about **programming in C++ , Java**
 
 - 📫 How to reach me **rg236343@gmail.com**
 
