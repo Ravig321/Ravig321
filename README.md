@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Gupta</h1>
-<h3 align="center">Aspiring Full Stack Web - Developer </h3>
+<h3 align="center">Software Developer</h3>
 
 <img  width="400"  src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravig321&label=Profile%20views&color=0e75b6&style=flat" alt="ravig321" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **programming in C++ , Java**
+- 💬 Ask me about **programming in C++ , Java, PHP, CakePHP, Flutter**
 
 - 📫 How to reach me **rg236343@gmail.com**
 
